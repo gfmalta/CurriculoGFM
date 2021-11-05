@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +7,6 @@
     <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
     <title>Curriculo Gustavo Malta</title>
 </head>
-    
 <body>
   <div class="background">
     <div class="menu">
@@ -34,8 +32,6 @@
                 <li>Endereço: Lago Sul, Brasília-DF</li>
             </ul>
         </div>
-
-
         <section class="texto">
             <br>
             <br>
@@ -184,7 +180,6 @@
                     </ul>
                 </div>
                 <br>
-
             </section>
         </section>
     </div>
