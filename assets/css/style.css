@@ -1,6 +1,8 @@
 *{margin: 0; padding: 0;}
 
-
+head{
+ size: 0px;   
+}
 .texto-pessoal{
     font-size: 20px;
     margin-left: 40px;
